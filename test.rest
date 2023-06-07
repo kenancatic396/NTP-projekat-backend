@@ -1,0 +1,12 @@
+POST  http://localhost:3000/orders 
+content-type: application/json
+
+    {
+"deliveryAddress":"Lijesnica BB"
+
+
+    }
+
+
+
+
